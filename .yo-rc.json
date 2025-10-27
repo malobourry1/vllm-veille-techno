@@ -1,0 +1,16 @@
+{
+  "generator-sicarator": {
+    "promptValues": {
+      "authorName": "Malo Bourry",
+      "authorEmail": "malo.bourry@theodo.com",
+      "ci": ".github",
+      "includeApi": false,
+      "includeDvc": false,
+      "includeStreamlit": false,
+      "includeHelloWorld": false
+    },
+    "projectName": "vLLM-veille-techno",
+    "projectSlug": "vllm-veille-techno",
+    "projectDescription": "veille technologique sur le framework vLLM."
+  }
+}
